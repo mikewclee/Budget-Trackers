@@ -30,7 +30,7 @@ router.get("/api/transaction", (req, res) => {
       res.status(404).json(err);
     });
 });
-
+//Extra delete All route
 router.delete("/api/delete", (req, res) => {
   Transaction.find({})
     .remove()
