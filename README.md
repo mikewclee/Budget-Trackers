@@ -6,7 +6,7 @@
 [Heroku Deployed](https://herokuapp.com/) - https://herokuapp.com/
 
 ## Description
-This is a Budget Tracker application that allows users to add expenses and deposits to their budget with or without a internet connection. When the user enters transactions offline, app will populate the total on website and stored in local database.  When user is back online, the offline entries will be automatically added to the backend database.
+The Budget Tracker application allows users to add expenses and deposits to their budget with or without an internet connection. When users enter transactions offline, app will populate the total on website and stored in local database.  When user is back online, the offline entries will be automatically added to the backend database.
 
 ## User Story
 As an avid traveller
@@ -19,6 +19,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 ## Technologies Used
 HTML, CSS, JavaScript, Mongo DB, Mongoose
 NPM Packages: Express, Morgan, Mongoose
+https://github.com/mikewclee/Budget-Trackers
 
 ## Contact
   
