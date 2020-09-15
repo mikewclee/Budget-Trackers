@@ -21,6 +21,8 @@ HTML, CSS, JavaScript, Mongo DB, Mongoose
 NPM Packages: Express, Morgan, Mongoose
 https://github.com/mikewclee/Budget-Trackers
 
+![AppScreenshot](public/icons/budgetTracker.jpg)
+
 ## Contact
   
 ![Badge](https://img.shields.io/badge/Github-mikewclee-green) 
